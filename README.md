@@ -33,6 +33,6 @@ bash
 nmap -sV 192.168.1.1
 **This command revealed detailed information such as the software and version behind each open port (e.g., Apache 2.4.41), allowing me to evaluate potential vulnerabilities based on known issues with specific versions.**
 
-**My pick on's after doing this was noting that:
-Understanding Nmap’s output is as important as running the scan itself and also Enumeration is the foundation of both offensive and defensive cybersecurity.**
+**My Final thoughts?**
+Understanding Nmap’s output is as important as running the scan itself and also Enumeration is the foundation of both offensive and defensive cybersecurity.
 
